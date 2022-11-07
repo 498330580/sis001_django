@@ -1,0 +1,1 @@
+*/10 * * * * nohup python3 /app/get_xiaosuo2.0.py >> /app/logs/get_xiaosuo.log 2>&1 &

@@ -1,0 +1,11 @@
+/.vs
+/.idea
+/venv
+/chrome/
+/__pycache__
+*.pyc
+**/*.pyc
+*.sqlite3
+data/db.sqlite3
+tools/关键字.txt
+tools/123.py
